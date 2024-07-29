@@ -1,4 +1,4 @@
-##Task 1 Completed: UNEMPLOYMENT IN INDIA ANALYSIS 
+Task 1 Completed: UNEMPLOYMENT IN INDIA ANALYSIS 
   Our project focuses on analyzing unemployment trends in India 
 
 Here are some key insights from our analysis:
@@ -17,7 +17,7 @@ Regional Analysis:
 The regional distribution of unemployment data across India provides a comprehensive view of the areas most affected. The map visualization highlights the geographical spread of unemployment rates, emphasizing areas that require more focused policy interventions.
 
 
-##Task 2 : BIGMART SALES DATA
+Task 2 : BIGMART SALES DATA
 
  Data Insights 📈 :
  
@@ -32,7 +32,7 @@ A diverse range of item types across different years, with significant establish
 
 
 
-##Task 3 : 80 CEREALS
+Task 3 : 80 CEREALS
 
 
 Key Insights
