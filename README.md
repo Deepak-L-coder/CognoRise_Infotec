@@ -67,7 +67,6 @@ Lowest Calorie Cereals: 100% Bran has the lowest calories at 70. High Calorie Ce
 
 
 ![Screenshot 2024-07-29 204616](https://github.com/user-attachments/assets/40abd4ef-e237-466a-89ff-38694eca6600)
-## Demo
 
 
 
